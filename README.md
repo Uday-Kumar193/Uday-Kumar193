@@ -1,169 +1,107 @@
+Hi, I'm Uday Kumar 👋
+ECE Undergraduate @ NIT Calicut | AI/ML • Computer Vision • Embedded Systems
+I'm an Electronics and Communication Engineering undergraduate at NIT Calicut, working at the intersection of machine learning, signal processing, and embedded systems. I like problems that sit between hardware and intelligence — where a model has to work with real signals, real constraints, and real consequences.
 
-# Hi, I'm Uday Kumar 👋
+Right now, my main focus is protein function prediction using deep learning — specifically an ontology-aware framework for CAFA-6. Alongside that, I'm sharpening my fundamentals in C++, DSA, and model optimization.
 
-### ECE Undergraduate @ NIT Calicut | AI/ML | Computer Vision | Embedded Systems
+🎓 Education: B.Tech, Electronics and Communication Engineering — NIT Calicut
 
-I'm an Electronics and Communication Engineering undergraduate at **NIT Calicut**, interested in building intelligent systems that combine machine learning, deep learning, signal processing, and embedded technologies.
+🔬 Research: CAFA-6 Protein Function Prediction (ESM-2 embeddings + Gene Ontology structure)
 
-Currently, I'm working on **protein function prediction using deep learning** and exploring AI applications in scientific research and engineering.
+🛰️ Internship: India Space Lab — Ground Control Software, Drone Simulations, Rocket Fin Analysis (FEM/CFD)
 
-- 🎓 **Education:** B.Tech in Electronics and Communication Engineering — NIT Calicut
-- 🔬 **Research:** CAFA-6 Protein Function Prediction
-- 🚀 **Internship:** India Space Lab — Ground Control Software, Drone Simulations, and Rocket Fin Analysis
-- 🤖 **Interests:** AI/ML, Computer Vision, Deep Learning, NLP, Embedded Systems
-- 🌱 **Currently learning:** Advanced Deep Learning, C++, DSA, and Model Optimization
-- 🎯 **Goal:** Build reliable, real-world AI and engineering solutions
+🤖 Interests: AI/ML, Computer Vision, Deep Learning, NLP, Scientific ML, Embedded Systems
 
----
+🌱 Currently learning: Advanced Deep Learning, C++, DSA, and Model Optimization
 
-## 🛠️ Tech Stack
+🎯 Goal: Build reliable, real-world AI and engineering solutions — not demos
 
-### Programming Languages
+🛠️ Tech Stack
+Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ML / DL / Data
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
 
-### AI, Machine Learning & Data Science
+Research & Dev Tools
+https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+Electronics & Engineering
+https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white
+https://img.shields.io/badge/Embedded_Systems-444444?style=for-the-badge
+https://img.shields.io/badge/Digital_Signal_Processing-00599C?style=for-the-badge
+https://img.shields.io/badge/SimScale-0080FF?style=for-the-badge
 
-### Research & Development Tools
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar193&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" /> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=Uday-Kumar193&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" /> </p>
+🚀 Featured Projects
+🧬 1. CAFA-6 Protein Function Prediction
+Python · PyTorch · ESM-2 · Hugging Face · PyTorch Geometric
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+Ontology-aware deep learning framework for predicting protein function under the CAFA-6 benchmark. Combines protein language model embeddings with Gene Ontology structure, and explores taxonomy-aware multimodal fusion for multi-label classification. (In progress.)
 
-### Electronics & Engineering
+🌍 2. Real-Time P-Wave Detection
+Python · CNN · BiLSTM · STFT · STEAD Dataset
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-444444?style=for-the-badge)
-![Signal Processing](https://img.shields.io/badge/Digital_Signal_Processing-00599C?style=for-the-badge)
-![SimScale](https://img.shields.io/badge/SimScale-0080FF?style=for-the-badge)
+Seismic signal processing pipeline for P-wave detection. Handles three-component waveform preprocessing and short-time Fourier transforms, with deep models for time-frequency classification.
 
-### 📊 GitHub Analytics
+🤖 3. SMS Spam Classifier
+Python · NLP · Scikit-learn · Streamlit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
+End-to-end text classification app for spam vs. legitimate messages — preprocessing, stemming, TF-IDF, and an interactive Streamlit front end.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar193&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+🎬 4. Movie Recommendation System
+Python · Streamlit · TMDB API
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Uday-Kumar193&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+Recommendation app that pulls live movie metadata through the TMDB API and surfaces suggestions through a simple interactive UI.
 
-## 📈 Contribution Activity
+🛰️ 5. Ground Control Software (CanSat)
+JavaScript · HTML · Web
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-</p>
+Web-based dashboard built during my India Space Lab internship to monitor and interact with a CanSat mission in real time.
 
-## 🚀 Featured Projects
+🌐 6. Personal Developer Portfolio
+JavaScript · React
 
-### 🤖 1. SMS Spam Classifier
+Portfolio site documenting my projects, skills, and ongoing work.
 
-**Technologies:** Python, Machine Learning, NLP, Scikit-learn, Streamlit
+💼 Experience
+India Space Lab — Intern
+April 2026 – June 2026
 
-[View Repository](https://github.com/Uday-Kumar193/sms-spam--classifier)
+Built real-time Ground Control Software for CanSat missions.
 
-- Built an SMS classification application to identify spam and legitimate messages.
-- Applied text preprocessing, stemming, and TF-IDF feature extraction.
-- Developed an interactive interface using Streamlit.
+Worked on drone guidance and control simulations in Python.
 
-### 🎬 2. Movie Recommendation System
+Ran FEM and CFD analysis of rocket fins in SimScale.
 
-**Technologies:** Python, Machine Learning, Streamlit, TMDB API
+🎯 Areas of Interest
+Artificial Intelligence & Machine Learning
 
-[View Repository](https://github.com/Uday-Kumar193/Movies-Recommender-System)
+Computer Vision & Deep Learning
 
-- Developed a movie recommendation application.
-- Integrated movie-related information through the TMDB API.
-- Built an interactive interface for exploring recommendations.
+Natural Language Processing
 
-### 🌐 3. Personal Developer Portfolio
+Scientific Machine Learning
 
-**Technologies:** JavaScript, React, Web Development
+Embedded Systems & Robotics
 
-[View Repository](https://github.com/Uday-Kumar193/udaykr-portfolio)
+Digital Signal Processing
 
-- Created a personal portfolio to showcase projects and technical skills.
-- Focused on presenting professional information and development work.
-
-### 🛰️ 4. Ground Control Software
-
-**Technologies:** JavaScript, HTML, Web Development
-
-[View Repository](https://github.com/Uday-Kumar193/Ground-Control-Software-GCS-)
-
-- Worked on a Ground Control Software dashboard for a CanSat mission.
-- Focused on developing a web-based interface for mission-related information.
-
-### 🧬 5. CAFA-6 Protein Function Prediction
-
-**Technologies:** Python, PyTorch, ESM-2, Hugging Face Transformers, PyTorch Geometric
-
-- Developing an ontology-aware deep learning framework for protein function prediction.
-- Using protein language model embeddings and Gene Ontology relationships.
-- Exploring taxonomy-aware multimodal feature fusion and multi-label classification.
-
-### 🌍 6. Real-Time P-Wave Detection
-
-**Technologies:** Python, CNN, BiLSTM, STFT, STEAD Dataset
-
-- Developed a seismic signal processing pipeline for P-wave detection.
-- Applied three-component waveform preprocessing and Short-Time Fourier Transform.
-- Explored deep learning methods for time-frequency signal analysis.
-
----
-
-## 💼 Internship Experience
-
-### India Space Lab | April 2026 – June 2026
-
-- Developed real-time Ground Control Software for CanSat missions.
-- Worked on drone guidance and control simulations using Python.
-- Performed FEM and CFD analysis of rocket fins using SimScale.
-
----
-
-## 🎯 Areas of Interest
-
-- Artificial Intelligence and Machine Learning
-- Computer Vision and Deep Learning
-- Natural Language Processing
-- Scientific Machine Learning
-- Embedded Systems and Robotics
-- Digital Signal Processing
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Uday-Kumar193">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/uday-kumar-2ba366291">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:uday739987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learning continuously, building intelligently, and solving real-world problems.</i> 🚀
-</p>
+🤝 Connect
+<p align="left"> <a href="https://github.com/Uday-Kumar193"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/uday-kumar-2ba366291"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:uday739987@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<p align="center"> <i>Learning continuously, building intelligently, and solving real-world problems.</i> 🚀 </p>
