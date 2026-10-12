@@ -1,3 +1,4 @@
+
 # Hi, I'm Uday Kumar 👋
 
 ### ECE Undergraduate @ NIT Calicut | AI/ML | Computer Vision | Embedded Systems
@@ -18,11 +19,13 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI, Machine Learning & Data Science
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -31,6 +34,7 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Research & Development Tools
+
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,6 +43,7 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ### Electronics & Engineering
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-444444?style=for-the-badge)
 ![Signal Processing](https://img.shields.io/badge/Digital_Signal_Processing-00599C?style=for-the-badge)
@@ -49,21 +54,21 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar193&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar193&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Uday-Kumar193&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Uday-Kumar193&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
@@ -71,7 +76,8 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ## 🚀 Featured Projects
 
 ### 🤖 1. SMS Spam Classifier
-**Python | Machine Learning | NLP | Streamlit**
+
+**Technologies:** Python, Machine Learning, NLP, Scikit-learn, Streamlit
 
 [View Repository](https://github.com/Uday-Kumar193/sms-spam--classifier)
 
@@ -80,7 +86,8 @@ Currently, I'm working on **protein function prediction using deep learning** an
 - Developed an interactive interface using Streamlit.
 
 ### 🎬 2. Movie Recommendation System
-**Python | Machine Learning | Streamlit | TMDB API**
+
+**Technologies:** Python, Machine Learning, Streamlit, TMDB API
 
 [View Repository](https://github.com/Uday-Kumar193/Movies-Recommender-System)
 
@@ -89,7 +96,8 @@ Currently, I'm working on **protein function prediction using deep learning** an
 - Built an interactive interface for exploring recommendations.
 
 ### 🌐 3. Personal Developer Portfolio
-**JavaScript | React | Web Development**
+
+**Technologies:** JavaScript, React, Web Development
 
 [View Repository](https://github.com/Uday-Kumar193/udaykr-portfolio)
 
@@ -97,7 +105,8 @@ Currently, I'm working on **protein function prediction using deep learning** an
 - Focused on presenting professional information and development work.
 
 ### 🛰️ 4. Ground Control Software
-**JavaScript | HTML | Mission Dashboard**
+
+**Technologies:** JavaScript, HTML, Web Development
 
 [View Repository](https://github.com/Uday-Kumar193/Ground-Control-Software-GCS-)
 
@@ -105,17 +114,19 @@ Currently, I'm working on **protein function prediction using deep learning** an
 - Focused on developing a web-based interface for mission-related information.
 
 ### 🧬 5. CAFA-6 Protein Function Prediction
-**Python | PyTorch | ESM-2 | Hugging Face Transformers | PyTorch Geometric**
+
+**Technologies:** Python, PyTorch, ESM-2, Hugging Face Transformers, PyTorch Geometric
 
 - Developing an ontology-aware deep learning framework for protein function prediction.
 - Using protein language model embeddings and Gene Ontology relationships.
 - Exploring taxonomy-aware multimodal feature fusion and multi-label classification.
 
 ### 🌍 6. Real-Time P-Wave Detection
-**Python | CNN | BiLSTM | STFT | STEAD Dataset**
+
+**Technologies:** Python, CNN, BiLSTM, STFT, STEAD Dataset
 
 - Developed a seismic signal processing pipeline for P-wave detection.
-- Applied three-component waveform preprocessing and short-time Fourier transform.
+- Applied three-component waveform preprocessing and Short-Time Fourier Transform.
 - Explored deep learning methods for time-frequency signal analysis.
 
 ---
@@ -158,5 +169,5 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ---
 
 <p align="center">
-  <i>"Learning continuously, building intelligently, and solving real-world problems."</i> 🚀
+  <i>Learning continuously, building intelligently, and solving real-world problems.</i> 🚀
 </p>
