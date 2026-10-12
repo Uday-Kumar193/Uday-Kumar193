@@ -49,14 +49,7 @@ Currently, I'm working on **protein function prediction using deep learning** an
 ![Signal Processing](https://img.shields.io/badge/Digital_Signal_Processing-00599C?style=for-the-badge)
 ![SimScale](https://img.shields.io/badge/SimScale-0080FF?style=for-the-badge)
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=contribs)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true)
-
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
@@ -70,13 +63,11 @@ Currently, I'm working on **protein function prediction using deep learning** an
   <img src="https://streak-stats.demolab.com?user=Uday-Kumar193&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
