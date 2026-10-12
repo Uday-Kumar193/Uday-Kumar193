@@ -27,15 +27,15 @@ I enjoy solving real-world problems through AI/ML, deep learning, computer visio
 
 **Research & Specialized Tools**
 - Hugging Face Transformers, BioPython, PyTorch Geometric
-- NetworkX, NLTK, OpenCV
+- NetworkX, NLTK
 
 **Electronics & Engineering**
 - Embedded Systems, Microcontrollers, Digital Signal Processing
-- MATLAB, LTspice, CST Studio Suite, SimScale
+- MATLAB, SimScale
 
 **Development & Tools**
 - Git, GitHub, Jupyter Notebook, Google Colab
-- Streamlit, VS Code, Linux
+- Streamlit, VS Code
 
 ---
 
