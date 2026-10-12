@@ -53,6 +53,11 @@ Currently, I'm working on **protein function prediction using deep learning** an
 
 ## 📊 GitHub Analytics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=contribs)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 </p>
