@@ -1,108 +1,146 @@
-# Hi, I'm Uday Kumar 👋
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Uday%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### ECE Undergraduate @ NIT Calicut | AI/ML & Computer Vision | Embedded Systems
+  <h3>Electronics & Communication Engineering Undergraduate @ NIT Calicut</h3>
+  <p><i>AI/ML • Computer Vision • Signal Processing • Embedded Systems</i></p>
 
-I am an Electronics and Communication Engineering undergraduate at **NIT Calicut**, passionate about building intelligent systems that bridge the gap between hardware, deep learning, and signal processing. 
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-4B0082?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/uday-kumar-2ba366291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:uday739987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-Currently, I am researching **protein function prediction using deep learning** and exploring AI applications in scientific research. I aim to build reliable, real-world AI and engineering solutions.
+</div>
 
-- 🎓 **Education:** B.Tech in Electronics and Communication Engineering — NIT Calicut
-- 🚀 **Experience:** Intern at India Space Lab (Ground Control Software, Drone Simulations, Rocket Fin Analysis)
+<br>
+
+<div align="center">
+  <i>"Learning continuously, building intelligently, and solving real-world problems."</i>
+</div>
+
+<br>
+
+---
+
+## 👨‍💻 About Me
+
+I am a final-year Electronics and Communication Engineering student at **NIT Calicut**, passionate about building intelligent systems that bridge the gap between hardware, deep learning, and signal processing. 
+
+Currently, I am researching **protein function prediction using deep learning** and exploring AI applications in scientific research.
+
+- 🎓 **Education:** B.Tech in ECE — National Institute of Technology, Calicut
+- 🚀 **Experience:** Intern at **India Space Lab** (Ground Control Software & Drone Simulations)
 - 🔬 **Research Focus:** Scientific Machine Learning, Computer Vision, NLP
-- 🌱 **Currently learning:** Advanced Deep Learning, C++, DSA, and Model Optimization
-
-**[📄 View My Resume](ADD_LINK_TO_YOUR_RESUME_PDF_HERE)** | **[💼 LinkedIn](https://www.linkedin.com/in/uday-kumar-2ba366291)** | **[📧 Email](mailto:uday739987@gmail.com)**
+- 🌱 **Currently Exploring:** Advanced Deep Learning, C++, DSA, and Model Optimization
 
 ---
 
-## 🔥 Highlighted Work
+## 🚀 Highlighted Work
 
-### 🧬 CAFA-6 Protein Function Prediction
-**Technologies:** Python, PyTorch, ESM-2, Hugging Face, PyTorch Geometric
-*   Developing an ontology-aware deep learning framework for multi-label protein function prediction.
-*   Utilizing protein language model embeddings and Gene Ontology relationships for taxonomy-aware multimodal feature fusion.
-
-### 🌍 Real-Time Seismic P-Wave Detection
-**Technologies:** Python, CNN, BiLSTM, STFT, STEAD Dataset
-*   Developed an end-to-end signal processing pipeline for early earthquake detection using seismic waveforms.
-*   Engineered a hybrid deep learning architecture (CNN + BiLSTM) to analyze time-frequency spectrograms generated via Short-Time Fourier Transform.
-
----
-
-## 🚀 Featured Projects
-
-*(Tip: Replace these placeholder links with actual screenshots/GIFs of your projects to make them stand out!)*
-
-### 1. 🛰️ Ground Control Software (GCS)
-**Technologies:** JavaScript, HTML, Web Development
-*   Developed a real-time web-based Ground Control Software dashboard for a CanSat mission.
-*   Focused on visualizing live telemetry and mission-critical sensor parameters.
-
-### 2. 🎬 Movie Recommendation System
-**Technologies:** Python, Machine Learning, Streamlit, TMDB API
-*   Developed a content-based movie recommendation application integrated with the TMDB API.
-*   Built an interactive and user-friendly interface using Streamlit.
-*   *[Add a screenshot of your Streamlit app here]*
-
-### 3. 🤖 SMS Spam Classifier
-**Technologies:** Python, Machine Learning, NLP, Scikit-learn, Streamlit
-*   Built an SMS classification application to accurately identify spam vs. legitimate messages.
-*   Applied text preprocessing, stemming, and TF-IDF feature extraction. 
-*   Deployed an interactive testing interface using Streamlit.
-
-### 4. 🌐 Personal Developer Portfolio
-**Technologies:** JavaScript, React, Web Development
-*   Created a personal portfolio to showcase projects, technical skills, and professional experience.
-
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI, Machine Learning & Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Research & Development Tools**
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Electronics & Engineering**
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SimScale](https://img.shields.io/badge/SimScale-0080FF?style=for-the-badge&logo=simscale&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 CAFA-6 Protein Function Prediction</h3>
+      <p><b>Tech:</b> Python, PyTorch, ESM-2, Hugging Face</p>
+      <ul>
+        <li>Developing an ontology-aware deep learning framework for multi-label protein function prediction.</li>
+        <li>Utilizing protein language model embeddings and Gene Ontology relationships.</li>
+      </ul>
+      <a href="LINK_TO_REPO"><b>Explore Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Real-Time Seismic P-Wave Detection</h3>
+      <p><b>Tech:</b> Python, CNN-BiLSTM, STFT, STEAD Dataset</p>
+      <ul>
+        <li>Built an end-to-end signal processing pipeline for early earthquake detection.</li>
+        <li>Engineered a hybrid DL architecture (CNN + BiLSTM) to analyze time-frequency spectrograms.</li>
+      </ul>
+      <a href="LINK_TO_REPO"><b>Explore Repository →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Internship Experience
 
-### India Space Lab | April 2024 – June 2024 *(Update dates if needed)*
-*   Developed real-time Ground Control Software (GCS) for CanSat missions.
-*   Worked on drone guidance and control simulations using Python.
-*   Performed FEM and CFD analysis of rocket fins using SimScale.
+**Summer Internship & Technical Training Program** | *India Space Lab* 
+*(April 2024 – June 2024)*
+
+- 🛰️ Developed a real-time **Ground Control Software (GCS)** interface for CanSat missions.
+- 🚁 Worked on drone guidance and control simulations using Python.
+- 🚀 Performed FEM/CFD analysis of rocket fins using SimScale and documented simulation outcomes.
+- 🌌 Gained exposure to aerospace systems, control systems, and software development.
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar193&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-</p>
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**AI / Machine Learning**<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+**Tools & Engineering**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/SimScale-0080FF?style=for-the-badge&logo=simscale&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Learning continuously, building intelligently, and solving real-world problems.</i> 🚀
-</p>
+## 📂 Featured Projects
+
+### 🛰️ Ground Control Software (GCS)
+> **JavaScript, HTML, Web Development**
+> Developed a web-based dashboard for a CanSat mission to visualize live telemetry and mission-critical data.
+
+### 🎬 Movie Recommendation System
+> **Python, Machine Learning, Streamlit, TMDB API**
+> Built a content-based recommendation engine with an interactive Streamlit interface. *(Add screenshot here)*
+
+### 🤖 SMS Spam Classifier
+> **Python, NLP, Scikit-learn, Streamlit**
+> Classified SMS messages using TF-IDF extraction and text preprocessing, deployed via Streamlit.
+
+### 🌐 Developer Portfolio
+> **React, JavaScript**
+> A personal website showcasing my technical journey, projects, and skills.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Kumar193&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Kumar193&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Kumar193&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
+</div>
